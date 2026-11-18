@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Damascus, Syria · Open to relocation to the Gulf
+  Damascus, Syria  
 </p>
 
 <p align="center">
