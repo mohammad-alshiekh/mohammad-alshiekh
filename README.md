@@ -1,108 +1,38 @@
-<h1 align="center">Mohamad Alshiekh</h1>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Mohamad Alshiekh
+=========================================================================================================================================
 
-<p align="center">
-  <strong>Software Engineer · Flutter Developer · Application Security</strong>
+Software Engineer · Flutter · Application Security
+--------------------------------------------------
+
+Software Engineer specializing in Flutter, full-stack development, and application security. Building scalable mobile applications, backend services, and security-focused solutions.
+
+* 🌍  I'm based in Damascus, Syria
+* 🖥️  See my portfolio at [My Portfolio](http://wfaddosprotectionsystem.vercel.app)
+* ✉️  You can contact me at [mohamad.alshiekh23@gmail.com](mailto:mohamad.alshiekh23@gmail.com)
+* 🚀  I'm currently working on [WAF & DDoS Protection System](http://github.com/mohammad-alshiekh/WFA_DDOS_protection_system)
+* 🧠  I'm currently learning SOC operations and threat detection
+* 👥  I'm looking to collaborate on Flutter, NestJS, and application security open-source projects
+* 💬  Ask me about CompTIA Security+ certified · Published Flutter apps on Google Play · Open to relocation to the Gulf
+
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" alt="Dart" title="Dart" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xcode-colored.svg" alt="XCode" title="XCode" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="NextJs" title="NextJs" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" alt="Fast API" title="Fast API" width="36" height="36" /></a><a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" alt="Oracle" title="Oracle" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" alt="Firebase" title="Firebase" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored-dark.svg" alt="XD" title="XD" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" alt="Flutter" title="Flutter" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" alt="PyTorch" title="PyTorch" width="36" height="36" /></a><a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/huggingface-colored-dark.svg" alt="Hugging Face" title="Hugging Face" width="36" height="36" /></a>
 </p>
 
-<p align="center">
-  Damascus, Syria  
-</p>
+### Socials
 
-<p align="center">
-  <a href="mailto:mohamad.alshiekh23@gmail.com">Email</a> ·
-  <a href="https://github.com/mohammad-alshiekh">GitHub</a>
-</p>
+<p align="left"> <a href="https://www.github.com/mohammad-alshiekh" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.gitlab.com/mohammad-alshiekh" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" width="32" height="32" alt="GitLab" title="GitLab" /> </picture> </a> <a href="https://www.linkedin.com/in/mohammad-alshiekh" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://www.youtube.com/@mohammad-alshiekh" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube" title="YouTube" /> </picture> </a></p>
+<a href="https://www.github.com/mohammad-alshiekh" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/mohammad-alshiekh?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+### Badges
 
----
+<b>My GitHub Stats</b>
 
-## About Me
+<a href="http://www.github.com/mohammad-alshiekh"><img src="https://github-readme-stats.vercel.app/api?username=mohammad-alshiekh&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="mohammad-alshiekh's GitHub stats" /></a>
 
-I am a Software Engineer focused on building reliable mobile applications and full-stack software solutions. My primary specialization is Flutter and Dart, with experience in Clean Architecture, Bloc/Cubit, GetX, REST API integration, and offline-first application design.
+<a href="http://www.github.com/mohammad-alshiekh"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammad-alshiekh&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-I also work with React, Next.js, Node.js, NestJS, and FastAPI. My interests include application security, backend performance, and AI-powered applications. I am CompTIA Security+ certified and have designed a university WAF project covering reverse-proxy filtering, DDoS mitigation, rate limiting, and behavioral analysis.
+<a href="https://github.com/mohammad-alshiekh" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-alshiekh&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-- Currently learning: SOC operations and threat detection
-- Interested in collaborating on: Flutter, NestJS, and application-security projects
-- Career interests: Software Engineering, Flutter Development, and Application Security
+<b>Top Repositories</b>
 
-## Tech Stack
-
-**Mobile Development**
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![Bloc](https://img.shields.io/badge/Bloc-00B4AB?style=flat)
-![GetX](https://img.shields.io/badge/GetX-8A2BE2?style=flat)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Hive](https://img.shields.io/badge/Hive-FFB300?style=flat)
-
-**Web & Backend**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-
-**Security, AI & Infrastructure**
-
-![Application Security](https://img.shields.io/badge/Application_Security-3949AB?style=flat)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-5B4BDB?style=flat)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white)
-
-RAG · ChromaDB · Structured Outputs · OpenAI and Claude APIs · JWT · RBAC · Rate Limiting · Behavioral Analysis
-
-## Selected Projects
-
-### [WAF & DDoS Protection System](https://github.com/mohammad-alshiekh/WFA_DDOS_protection_system)
-
-A university project exploring a reverse-proxy Web Application Firewall and layered DDoS mitigation. It includes Redis-backed rate limiting, behavioral analysis, connection tracking, IP allowlisting/blocklisting, attack simulation, and Prometheus/Grafana monitoring.
-
-**Technologies:** NestJS, Redis, Next.js, Docker, Prometheus, Grafana
-
-### [High-Performance E-Commerce System](https://github.com/mohammad-alshiekh/parallel-programming-)
-
-A full-stack e-commerce application demonstrating optimistic locking, concurrent-operation control, and asynchronous background processing for tasks such as invoice generation and notifications.
-
-**Technologies:** NestJS, Next.js, Redis, MySQL
-
-### [Complaint Management System (CMCS)](https://github.com/mohammad-alshiekh/complaints_management)
-
-A web platform for managing citizen complaints across government entities, with multi-role access, complaint lifecycle tracking, analytics dashboards, advanced filtering, and file attachments.
-
-**Technologies:** Next.js, React, TypeScript, Tailwind CSS
-
-### [Secure Vault](https://github.com/mohammad-alshiekh/secure_vault)
-
-A Flutter password-manager project focused on offline storage, biometric authentication, password management, and encrypted vault data.
-
-**Technologies:** Flutter, Dart, BLoC/Cubit, Hive, Flutter Secure Storage
-
-> These project descriptions summarize their published repository documentation; they are not independent security or production-readiness assessments.
-
-## Certifications
-
-- **CompTIA Security+** — 2025
-- **Huawei Certified ICT Associate (HCIA)** — 2024
-
-## Education
-
-**B.Sc. in Information Technology Engineering and Computer Science**  
-Damascus University, Syria
-
-## Contact
-
-- Email: [mohamad.alshiekh23@gmail.com](mailto:mohamad.alshiekh23@gmail.com)
-- GitHub: [github.com/mohammad-alshiekh](https://github.com/mohammad-alshiekh)
-
----
-
-<p align="center">
-  <em>Open to software engineering opportunities and collaboration.</em>
-</p>
+<div width="100%" align="center"><a href="https://github.com/mohammad-alshiekh/ WAF & DDoS Protection System" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mohammad-alshiekh&repo= WAF & DDoS Protection System&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
